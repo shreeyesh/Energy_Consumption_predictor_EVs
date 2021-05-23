@@ -2,7 +2,7 @@
 
 ### Description
 Using a dataset collected from 
-https://spritmonitor.de/ 
+https://www.spritmonitor.de/en/
 driving range for electric vehicles
 is predicted via input features, such as `driving_style`, `avg_speed` and `route_type`.
 
